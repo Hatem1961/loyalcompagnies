@@ -1,6 +1,6 @@
 {
   "name": "@hatem1961/loyalcompagnies",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git://github.com/hatem1961/loyalcompagnies.git"
   },
-  "author": "toppev",
+  "author": "hatem1961",
   "license": "SEE LICENSE IN LICENSE",
   "files": [
     "index.js",
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/hatem1961/loyalcompagnies/issues"
   },
-  "homepage": "https://github.com/hatem1961/loyalcompagnies#readme",
+  "homepage": "https://github.com/hatem1961/loyalcompagnies",
   "devDependencies": {
     "jest": "^25.4.0",
     "eslint": "^6.8.0",
