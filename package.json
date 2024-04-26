@@ -1,14 +1,16 @@
 {
   "name": "@hatem1961/loyalcompagnies",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest --forceExit"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
-    "type": "git",
-    "url": "git://github.com/hatem1961/loyalcompagnies.git"
+    "url": "https://github.com/hatem1961/loyalcompagnies.git"
   },
   "author": "hatem1961",
   "license": "SEE LICENSE IN LICENSE",
